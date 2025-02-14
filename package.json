@@ -1,0 +1,20 @@
+{
+  "name": "barnywarp-packager",
+  "version": "1.0.0",
+  "description": "Converts a scratch project to HTML/JavaScript",
+  "main": "index.html",
+  "keywords": [
+    "brnywarp",
+    "packager",
+    "html"
+  ],
+  "author": "arancia313",
+  "license": "ISC",
+  "dependencies": {
+    "package-name": "arancia313-patch-clog-1",
+    "arancia313-patch-clog-1": "^1.0.0",
+    "express": "^4.17.1",
+    "scratch-vm": "^0.3.0",
+    "scratch-render": "^0.3.0"
+  }
+}
